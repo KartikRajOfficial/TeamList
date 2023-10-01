@@ -1,7 +1,8 @@
-# TeamList
-##Kartik Raj Official (Main Developer) 
+</b> TeamList </b>
 
-##Shreya Khadekar - shreyakhadekar@gmail.com (C++)
+#Kartik Raj Official (Main Developer) 
 
-##Tanisha - tomartanisha443@gmail.com (coder)
+#Shreya Khadekar - shreyakhadekar@gmail.com (C++)
+
+#Tanisha - tomartanisha443@gmail.com (coder)
 
